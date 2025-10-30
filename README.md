@@ -11,4 +11,4 @@
 3-index.html: Accessible form with ARIA attributes.
 
 # Author
- Resenne Rampou
+ Reseanne Rampou
