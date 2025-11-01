@@ -1,9 +1,6 @@
 # alx-intermediate-frontend
 
-This project demonstrates a strong foundation in frontend web development using semantic HTML elements.
-It includes structured, accessible, and SEO-friendly HTML layouts from wireframes to fully functional semantic pages.
-
-# Tasks Included
+# HTML Files
 
 0-index.html: Basic HTML structure with semantic elements.
 
@@ -14,4 +11,4 @@ It includes structured, accessible, and SEO-friendly HTML layouts from wireframe
 3-index.html: Accessible form with ARIA attributes.
 
 # Author
- Resenne Rampou
+ Reseanne Rampou
