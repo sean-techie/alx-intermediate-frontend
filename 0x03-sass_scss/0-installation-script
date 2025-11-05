@@ -1,0 +1,16 @@
+1. Navigated to my projects folder:
+   cd "C:\Users\Reseanne\OneDrive\Desktop\New folder\alx_projects"
+
+2. Created the repository directory:
+   mkdir alx-intermediate-frontend
+   cd alx-intermediate-frontend
+
+3. Created the SASS setup directory:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+4. Installed SASS version 1.77.4 using npm:
+   npm install sass@1.77.4
+
+5. Verified installation:
+   npx sass --version
